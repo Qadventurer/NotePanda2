@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">NotePanda</string>
+    <string name="note_title_placeholder">This is where the Title should be visible</string>
+    <string name="note_description_placeholder">This is where the description should be visible</string>
+    <string name="list_item_placeholder">black fox wanted to bite quick dog</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

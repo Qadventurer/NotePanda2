@@ -10,13 +10,13 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="This is where the Title should be visible"
+        android:text="@string/note_title_placeholder"
         android:id="@+id/titleTV"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="This is where the description should be visible"
+        android:text="@string/note_description_placeholder"
         android:id="@+id/descriptionTV"/>
 
 </LinearLayout>

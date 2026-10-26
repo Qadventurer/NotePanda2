@@ -9,14 +9,14 @@
             android:layout_height="wrap_content"
             android:id="@+id/single_list_name_TV"
             android:textSize="26sp"
-            android:text="black fox wanted to bite quick dog"/>
+            android:text="@string/list_item_placeholder"/>
 
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/single_list_creation_date_TV"
             android:textSize="16sp"
-            android:text="black fox wanted to bite quick dog"/>
+            android:text="@string/list_item_placeholder"/>
 
     <TextView
             android:layout_width="match_parent"
