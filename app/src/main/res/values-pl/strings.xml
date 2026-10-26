@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NotePanda</string>
+    <string name="note_title_placeholder">Tu powinien być widoczny tytuł</string>
+    <string name="note_description_placeholder">Tu powinien być widoczny opis</string>
+    <string name="list_item_placeholder">Zażółć gęślą jaźń</string>
+</resources>
